@@ -1,0 +1,4 @@
+p:not(#ben_steed){
+  border: 3px solid purple;
+  background-image: linear-gradient(to right, cyan, #B9EB00);
+}
