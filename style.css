@@ -1,4 +1,13 @@
-p:not(#ben_steed){
+/*#me_too_thanks{
+  color:#2fff00;
+  background-color:brown
+}*/
+p:not(#ben_steed):not(#me_too_thanks){
   border: 3px solid purple;
   background-image: linear-gradient(to right, cyan, #B9EB00);
+}
+#me_too_thanks{
+  background-color:darkcyan;
+  color:#c6ffba;
+  
 }
